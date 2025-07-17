@@ -1,0 +1,20 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "MERN stack assignment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Add your test script here (e.g., jest)\"",
+    "install-all": "echo \"Add your install-all script here\"",
+    "setup-test-db": "echo \"Add your setup-test-db script here\"",
+    "test:unit": "echo \"Add your unit test script here\"",
+    "test:integration": "echo \"Add your integration test script here\"",
+    "test:e2e": "echo \"Add your e2e test script here\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
